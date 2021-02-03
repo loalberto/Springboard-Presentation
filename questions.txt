@@ -1,0 +1,3 @@
+What are the sales looking like in different countries?
+Can I make a line plot to look for trends ?
+Does the genre of the game mean it'll make more money?
